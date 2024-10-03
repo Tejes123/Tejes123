@@ -5,4 +5,4 @@
 - 💬 Ask me about Google Cloud Platform and GenAI
 - 📫 How to reach me: email me at tejeswar2019@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Python for Competetive Programming
+- ⚡ Fun fact: I like Python for Competitive Programming
